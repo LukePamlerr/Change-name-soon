@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node"
+  },
+  "imports": {
+    "https://deno.land/x/oak/mod.ts": "https://deno.land/x/oak@v10.0.0/mod.ts",
+    "https://deno.land/x/bcrypt/mod.ts": "https://deno.land/x/bcrypt@v0.3.0/mod.ts"
+  }
+}
